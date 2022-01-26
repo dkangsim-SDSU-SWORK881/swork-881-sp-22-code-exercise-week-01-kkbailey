@@ -51,3 +51,4 @@ ftable(data01$parent_immigrant) # 128 people have immigrant parents, while 140 d
 #This sample of 268 people is 33 years of age on average (a range of 21 - 46 years) 
 # with an average monthly salary of $3,045. A little less than half of the sample
 # (47.8%) has immigrant parents.
+
